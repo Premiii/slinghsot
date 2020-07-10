@@ -1,3 +1,6 @@
 [submodule "rock"]
 	path = rock
 	url = https://github.com/Premiii/rock.git
+[submodule "premi-colormag"]
+	path = premi-colormag
+	url = https://gitlab.com/tginterns2020/premi-colormag.git
